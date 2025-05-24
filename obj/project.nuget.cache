@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UEoNGk342w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YOUR PC\\Documents\\GameDevelopment\\Games\\LateNightCook\\LateNightCook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YOUR PC\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
